@@ -2,7 +2,7 @@
 
 ## iOS 18 Jailbreak Availability Checking Status
 
-If you are an iOS 18 Beta to iOS 17 user or have an iPhone 15 Pro Max to iPhone 7, you have only web-based jailbreak solutions like Hacksnow and Cydia 2 tools.
+If you are an iOS 18 Beta to iOS 17 user or have an iPhone 15 Pro Max to iPhone 7, you have only [web-based jailbreak solutions](https://github.com/iOS18Update/Jailbreak?tab=readme-ov-file#solution-1---using-the-hacksnow-semi-jailbreak-tool) like Hacksnow and Cydia 2 tools.
 
 Users of iOS 17 and lower versions on iPhone and iPad can still use traditional jailbreak tools such as Uncover, Palera1n, Checkra1n, and Cheyote.
 
@@ -12,15 +12,15 @@ Users of iOS 17 and lower versions on iPhone and iPad can still use traditional 
 
 ![ios18 cydia](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/f99c7aec-4a4b-40f0-bc32-666d0949dcee)
 
-Hacksnow is the currently fresh iOS 18 jailbreak without computer solution. After the jailbreak process, you can seamlessly choose Cydia 2, Sileo, and Cydia Dark versions.
+Hacksnow is the currently fresh **iOS 18 jailbreak without computer** solution. After the jailbreak process, you can seamlessly choose Cydia 2, Sileo, and Cydia Dark versions.
 
-Most Apple users recommend this tool as a trusted iOS 18 jailbreak solution because it can be set up without changing your system root files. This means there are no issues with voiding your Apple warranty. It's easy to set up, and you only need to use the Safari web browser.
+Most Apple users recommend this tool as a trusted iOS 18 jailbreak solution because it can be set up without changing your system root files. This means there are **no issues with voiding your Apple warranty**. It's easy to set up, and you only need to use the Safari web browser.
 
 ### How To Setup / Install  Hacksnow for iOS 18 Beta - iOS 17 devices???
 
 **Step 1** 
 
-First, you need to install Hacksnow using the Cydia 2 iOS 18 official page. It is the only page where you can find the original version of Hacksnow for iOS 18.
+First, you need to install Hacksnow using the Cydia 2 [iOS 18 official page](https://cydia2.com/ios-18/). It is the only page where you can find the original version of Hacksnow for iOS 18.
 
 [Install HackSnow Tool 🔽](https://cydia2.com/ios-18/#install-btn)
 
@@ -32,37 +32,39 @@ Click the Hacksnow install button and open it through the zJailbreak official ap
 
 **Step 3** 
 
-After installation, you can start the iOS 18 - [iOS 17.5.1 jailbreak](https://cydia2.com/hacksnow-jailbreak/) process. It will automatically check for jailbreak availability. Wait a few seconds for the iOS 18 jailbreak process to complete. Once done, you will see four default package managers. Select your favorite package manager to enhance your device.
+After installation, you can start the iOS 18 - [iOS 17.5.1 jailbreak](https://cydia2.com/hacksnow-jailbreak/) process. It will automatically check for jailbreak availability. Wait a few seconds for the jailbreak iOS 18 process to complete. Once done, you will see four default package managers. Select your favorite package manager to enhance your device.
 
 ![3](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/f128f412-9205-4aad-a256-339d503ef081)
 
-(We highly recommend installing Cydia 2 on your iOS 18 beta device because the latest Cydia update includes up-to-date Cydia 2 repositories and tweaks.)
+**We highly recommend installing Cydia 2** on your iOS 18 beta device because the latest Cydia update includes up-to-date Cydia 2 repositories and tweaks.
 
 **Step 4** 
 
-If you select Cydia 2, open it freely. You will see the latest Cydia interface.
+If you select Cydia 2, open it freely. You will see the Latest Cydia Interface.
 
 ![4](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/7c4168d9-1115-4a0c-9726-30c17c410ccb)
 
 **Step 5**
 
-Go to the Cydia 2 add source section, and a repo list link will appear. Click it to view all the repos, choose them one by one, and start exploring the best iOS 18 iPhone customizations without any hassle.
+Go to the Cydia 2 "Add source section", and a repo list link will appear. 
 
-## What are the best iOS 18 jailbreak features of Cydia 2?
+Click it to view all the repos, choose them one by one, and start exploring the best iOS 18 iPhone customizations without any hassle.
+
+## What are the best iOS 18 jailbreak features of Cydia 2
 
 #### Support for 20+ Repositories and Sources (All are brand-new) ####
 
-After installing Cydia 2 through the HacknSnow iOS 18 online jailbreak tool, you can experience an official repo collection. These repos are filled with the most popular iOS 18 themes, tweaks, games, jailbreak tools, and productivity-enhancing apps. These repos can be purchased in the Cydia 2 app or on the [official Cydia 2 repo page](https://cydia2.com/best-cydia-repos/).
+After installing Cydia 2 through the HacknSnow iOS 18 online jailbreak tool, you can experience an official repo collection. These repos are filled with the most popular [iOS 18 jailbreak apps](https://cydia2.com/cydia-for-iphone/), tweaks, games, jailbreak tools, and productivity-enhancing apps. These repos can be purchased in the Cydia 2 app or on the [official Cydia 2 repo page](https://cydia2.com/best-cydia-repos/).
 
 #### Useful Tweaks Collection (Supports Both Non-Jailbroken and Jailbroken Devices) ####
 
-![Tweaks](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/38752564-fc6e-463d-8b61-bb353c462317)
+![Tweaks-18](https://github.com/iOS18Update/Jailbreak/assets/166092918/472891a6-c97d-49b8-ba50-87f8fd527326)
 
 You can browse and install very useful [iOS tweaks](https://cydia2.com/best-cydia-tweaks/) from the Cydia 2 iOS 18 new version. These tweaks can help customize your default control center, lock screen, settings app, notification styles, font sizes, and many more amazing things.
 
 #### Aesthetic Theme Collection (Find 100+ App Icon Themes) ####
 
-![Themes](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/fe76ebdb-6f1d-414d-814a-30efb80cfe98)
+![Themes-18](https://github.com/iOS18Update/Jailbreak/assets/166092918/11872b9c-0435-4151-83cb-d604b8f5a6b6)
 
 If you are a theme lover, Cydia 2 is the best place to get an [exclusive collection of iOS themes](https://cydia2.com/ios17-themes/) supporting iOS 17 to iOS 18 Beta versions. The iOS 18 developer beta update introduced app icon modifications (dark themes), which some Apple users find interesting. 
 
@@ -70,7 +72,7 @@ However, some users don't like the dark features and prefer themes from third-pa
 
 #### Best Tweaked Apps / No Outdated Apps Available ####
 
-Cydia 2 repositories introduce tested and functional tweaked app stores in 2024. Recently, most of the tweaked app stores are outdated and not supported for iOS 17 and higher versions. But we filter them out and only allow you to install the latest apps with new features. You can also purchase them from our [official tweaked apps](https://cydia2.com/tweaked-app-stores/) page.
+Cydia 2 repositories introduce tested and functional tweaked app stores in 2024. Recently, most of the tweaked app stores are outdated and not supported for iOS 17 and higher versions. But we filter them out and only allow you to install the latest apps with new features. You can also purchase them from our official [tweaked apps](https://cydia2.com/tweaked-app-stores/) page.
 
 #### Online Jailbreak Apps for iOS 18 Beta and Higher Versions ####
 
@@ -128,35 +130,37 @@ These are the three tools you can use via the Cydia 2 icon-generating repository
 
 ## Questions & Answers - iOS 18 Cydia Jailbreak
 
-**What is Hacksnow and Cydia 2?**
+**🙋 What is Hacksnow and Cydia 2?**
 
 Hacksnow is a newly released semi-jailbreak tool, and [Cydia 2](https://cydia2.com/) is its default package manager. 
 
-**Why is the full version of Cydia discontinued?**
+**🙋 Why is the full version of Cydia discontinued?**
 
 The full version of Cydia is discontinued because Saurik, its developer, no longer provides updates for it. It contains many outdated repos and tweaks. As an alternative, you can use Cydia 2 for iOS 17 to iOS 18 developer versions.
 
-**Does Cydia 2 support old iPhone/iPad jailbreaks?**
+**🙋 Does Cydia 2 support old iPhone/iPad jailbreaks?**
 
 Yes, Cydia 2 supports all versions perfectly.
 
-**Is jailbreaking iOS 18 safe for iPhone 14 and 15 models?**
+**🙋 Is jailbreaking iOS 18 safe for iPhone 14 and 15 models?**
 
 Hacksnow jailbreak is fully safe. However, there are many iOS 18 jailbreak alternatives available on the internet. We cannot guarantee the safety of those tools. Avoid using unsafe methods and unauthorized apps/tools. Refer only to this guide for a safe method.
 
-**When is the iOS 18 public version launch date? Is there a fixed date?**
+**🙋 When is the iOS 18 public version launch date? Is there a fixed date?**
 
 There is no fixed date for the iOS 18 public version launch. However, with the official release of the iPhone 16 series in September, we can probably expect iOS 18 to be released at the same time.
 
-**Can Cydia 2 get Dopamine / TrollStore?**
+**🙋 Can Cydia 2 get Dopamine / TrollStore?**
 
 No, Cydia 2 cannot get TrollStore.
 
-**How to troubleshoot Cydia 2?**
+**🙋 How to troubleshoot Cydia 2?**
 
 You can get support from the Cydia 2 team through their 24-hour service. Open the app, and it has contact details. Feel free to refer to them for support.
 
 ## Credits
+
+![Cydia-Dev](https://github.com/iOS18Update/Jailbreak/assets/166092918/8513dd13-d727-4710-b1c3-b26f37e7e206)
 
 The concept of Cydia 2 stems from the groundbreaking work of Jay Freeman and his original Cydia. 
 
