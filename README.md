@@ -8,7 +8,7 @@ Users of iOS 17 and lower versions on iPhone and iPad can still use traditional 
 
 ## How to Jailbreak iOS 18 Versions on iPhones, iPads, and iPod Touch Devices
 
-### Solution 1 - Using the HackSnow Semi-Jailbreak Tool
+### Just Released Solution - Using the HackSnow Semi-Jailbreak Tool
 
 ![ios18 cydia](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/f99c7aec-4a4b-40f0-bc32-666d0949dcee)
 
