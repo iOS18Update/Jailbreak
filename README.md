@@ -20,19 +20,27 @@ Most Apple users recommend this tool as a trusted iOS 18 jailbreak solution beca
 
 First, you need to install Hacksnow using the Cydia 2 iOS 18 official page. It is the only page where you can find the original version of Hacksnow for iOS 18.
 
+[Install HackSnow Tool](https://cydia2.com/ios-18/#install-btn)
+
 **Step 2** 
 
 Click the Hacksnow install button and open it through the zJailbreak official app store. Find the Hacksnow tool and install it.
 
+![1](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/8603884d-9ad3-4128-a7e0-311071bd9b1b)
+
 **Step 3** 
 
 After installation, you can start the jailbreak process. It will automatically check for jailbreak availability. Wait a few seconds for the iOS 18 jailbreak process to complete. Once done, you will see four default package managers. Select your favorite package manager to enhance your device.
+
+![3](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/f128f412-9205-4aad-a256-339d503ef081)
 
 (We highly recommend installing Cydia 2 on your iOS 18 beta device because the latest Cydia update includes up-to-date Cydia 2 repositories and tweaks.)
 
 **Step 4** 
 
 If you select Cydia 2, open it freely. You will see the latest Cydia interface.
+
+![4](https://github.com/iOS18Update/Online-Jailbreak/assets/166092918/7c4168d9-1115-4a0c-9726-30c17c410ccb)
 
 **Step 5**
 
