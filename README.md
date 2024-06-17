@@ -140,7 +140,7 @@ Hacksnow is a newly released semi-jailbreak tool, and [Cydia 2](https://cydia2.c
 
 The full version of Cydia is discontinued because Saurik, its developer, no longer provides updates for it. It contains many outdated repos and tweaks. 
 
-As an alternative, you can use Cydia 2 for iOS 17 to iOS 18 developer versions.
+As an alternative, you can use Cydia 2 for latest versions.
 
 **🙋 Does Cydia 2 support old iPhone/iPad jailbreaks?**
 
